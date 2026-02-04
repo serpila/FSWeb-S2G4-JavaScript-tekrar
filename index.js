@@ -69,7 +69,7 @@ console.log(CemberinCevresi(5));//görev 1 sonuç
 function CemberinAlani(yaricap,pi) {
   return pi*Math.pow(yaricap,2);
 }
-console.log(KareninAlani(15));
+console.log(KareninAlani(15));//görev 2 sonuç
 
 /* (Oto test yok) Yukarıdaki CemberinAlani fonksiyonunu yarıçap = 15 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
