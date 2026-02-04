@@ -117,7 +117,7 @@ for(let i=0;i<sayilar.length;i++){
 sayilar.forEach(element => {
   if(element%3===0)
   {
-    ucetambolunenler.push(element)
+    ucetambolunenler.push(element);//diziye eleman ekleme
   }
 });
 
