@@ -54,7 +54,7 @@ console.log(KareninAlani(10));
 function CemberinCevresi(yaricap) {
   return 2*pi*yaricap;
 }
-console.log(CemberinCevresi(5));
+console.log(CemberinCevresi(5));//görev 1 sonuç
 
 /* (Oto test yok) Yukarıdaki CemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
