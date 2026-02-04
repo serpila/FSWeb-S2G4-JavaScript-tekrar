@@ -105,10 +105,10 @@ let ucetambolunenler = [],
 
 for(let i=0;i<sayilar.length;i++){
   if(sayilar[i]>enbuyuk){
-    enbuyuk=sayilar[i];
+    enbuyuk=sayilar[i]; //en büyük sayı
   }
   if(sayilar[i]<enkucuk){
-    enkucuk=sayilar[i];
+    enkucuk=sayilar[i]; //en küçük sayı
   }
 }
 
